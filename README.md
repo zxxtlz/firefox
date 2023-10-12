@@ -16,7 +16,12 @@ Open the folder named "firefox" (the one you just cloned)
 
 put "chrome" into your profile folder and do the same with "user.js"
 
+
+__________________________________
+
+
 If you are on Windows
+
 VVV
 
 install the repo
