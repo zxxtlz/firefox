@@ -44,3 +44,4 @@ VVV
 Here are some plugins that make my life all that much better
 - Undisposition // stops links from automatically downloading stuff, (example: whenever you click on a discord video link, it wont download but instead it will act as a normal video in your browser that you can watch)
 - Clipboard2File // instead of having to download images, you can just place images from your clipboard
+- Ublock Origin // adblocker
