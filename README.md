@@ -21,6 +21,7 @@ Open the folder named "firefox" (the one you just cloned)
 
 put "chrome" into your profile folder and do the same with "user.js"
 
+!!! If you encouter problem where your browser text at the top is black (unreadlabe), you need to go into settings and change it from white theme to dark theme
 
 __________________________________
 
@@ -38,6 +39,8 @@ VVV
 - Look at where it says "Root Directory" press the button where it says open folder to the right.
 
 - Open the folder you downloaded, and put "chrome" into your profile folder and do the same with "user.js"
+
+!!! If you encouter problem where your browser text at the top is black (unreadlabe), you need to go into settings and change it from white theme to dark theme
 
 # Plugins
 
