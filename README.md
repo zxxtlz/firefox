@@ -1,9 +1,13 @@
-# firefox
-![Custom_Firefox_css](https://github.com/zxxtlz/firefox/assets/75642081/83c40da7-b45e-4dba-9dbb-c212ad3ec985)
-
-my firefox setup (really basic)
-
 ***Yes. I do have 2 different config files for firefox, one is for my laptop, second one is for my computer.***
+
+# Screenshots
+Desktop
+![desktop](https://github.com/zxxtlz/firefox/blob/main/screenshots/desktop.png?raw=true)
+Laptop
+![laptop](https://github.com/zxxtlz/firefox/blob/main/screenshots/laptop1.png?raw=true)
+
+# firefox guide
+![Custom_Firefox_css](https://github.com/zxxtlz/firefox/assets/75642081/83c40da7-b45e-4dba-9dbb-c212ad3ec985)
 
 If you are on linux
 Make sure you have Git installed
