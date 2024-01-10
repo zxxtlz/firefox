@@ -50,3 +50,9 @@ Here are some plugins that make my life all that much better
 - Undisposition // stops links from automatically downloading stuff, (example: whenever you click on a discord video link, it wont download but instead it will act as a normal video in your browser that you can watch)
 - Clipboard2File // instead of having to download images, you can just place images from your clipboard
 - Ublock Origin // adblocker
+
+# Credits
+
+- Laptop css - https://github.com/andreasgrafen/cascade
+- Desktop css (slightly edited version by me) - https://github.com/eduardhojbota/moonlight-userChrome
+- Desktop css Bookmarks - https://github.com/datguypiko/Firefox-Mod-Blur/tree/master/EXTRA%20MODS/Compact%20extensions%20menu
