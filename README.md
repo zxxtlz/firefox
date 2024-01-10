@@ -3,6 +3,8 @@
 
 my firefox setup (really basic)
 
+***Yes. I do have 2 different config files for firefox, one is for my laptop, second one is for my computer.***
+
 If you are on linux
 Make sure you have Git installed
 
