@@ -9,6 +9,18 @@ Laptop
 # firefox guide
 ![Custom_Firefox_css](https://github.com/zxxtlz/firefox/assets/75642081/83c40da7-b45e-4dba-9dbb-c212ad3ec985)
 
+Before we start the download
+
+Make sure you go to your firefox config by typing in the url bar
+
+    about:config
+
+After that, you need to type in the search
+
+    toolkit.legacyUserProfileCustomizations.stylesheets 
+
+And make sure that that setting is set to "true". So we can actually customize the firefox css
+
 If you are on linux
 Make sure you have Git installed
 
