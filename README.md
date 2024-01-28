@@ -21,7 +21,27 @@ After that, you need to type in the search
 
 And make sure that that setting is set to "true". So we can actually customize the firefox css
 
-If you are on linux
+
+# Windows Install
+
+VVV
+
+- install the repo
+
+- type in your firefox search bar about:profiles
+
+- Make a new profile
+
+- Look at where it says "Root Directory" press the button where it says open folder to the right.
+
+- Open the folder you downloaded, and put "chrome" into your profile folder and do the same with "user.js"
+
+!!! If you encouter problem where your browser text at the top is black (unreadlabe), you need to go into settings and change it from white theme to dark theme
+
+__________________________________
+
+
+# Linux install
 Make sure you have Git installed
 
 VVV
@@ -41,31 +61,15 @@ put "chrome" into your profile folder and do the same with "user.js"
 
 !!! If you encouter problem where your browser text at the top is black (unreadlabe), you need to go into settings and change it from white theme to dark theme
 
-__________________________________
-
-
-If you are on Windows
-
-VVV
-
-- install the repo
-
-- type in your firefox search bar about:profiles
-
-- Make a new profile
-
-- Look at where it says "Root Directory" press the button where it says open folder to the right.
-
-- Open the folder you downloaded, and put "chrome" into your profile folder and do the same with "user.js"
-
-!!! If you encouter problem where your browser text at the top is black (unreadlabe), you need to go into settings and change it from white theme to dark theme
-
 # Plugins
 
 Here are some plugins that make my life all that much better
-- Undisposition // stops links from automatically downloading stuff, (example: whenever you click on a discord video link, it wont download but instead it will act as a normal video in your browser that you can watch)
-- Clipboard2File // instead of having to download images, you can just place images from your clipboard
-- Ublock Origin // adblocker
+- ![Undisposition](https://addons.mozilla.org/en-US/firefox/addon/undisposition-racle-fork/) // stops links from automatically downloading stuff, (example: whenever you click on a discord video link, it wont download but instead it will act as a normal video in your browser that you can watch)
+- ![Clipboard2File](https://addons.mozilla.org/en-US/firefox/addon/clipboard2file/)  // instead of having to download images, you can just place images from your clipboard
+
+    set ```dom.events.asyncClipboard.clipboardItem``` to true in ```about:profiles``` if you want this plugin to work
+- ![Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) // best adblocker
+- ![Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) // enables copy and highlighting of text on websites that restrict you 
 
 # Credits
 
