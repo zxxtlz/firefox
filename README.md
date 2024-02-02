@@ -64,12 +64,12 @@ put "chrome" into your profile folder and do the same with "user.js"
 # Plugins
 
 Here are some plugins that make my life all that much better
-- ![Undisposition](https://addons.mozilla.org/en-US/firefox/addon/undisposition-racle-fork/) // stops links from automatically downloading stuff, (example: whenever you click on a discord video link, it wont download but instead it will act as a normal video in your browser that you can watch)
-- ![Clipboard2File](https://addons.mozilla.org/en-US/firefox/addon/clipboard2file/)  // instead of having to download images, you can just place images from your clipboard
+- [Undisposition](https://addons.mozilla.org/en-US/firefox/addon/undisposition-racle-fork/) // stops links from automatically downloading stuff, (example: whenever you click on a discord video link, it wont download but instead it will act as a normal video in your browser that you can watch)
+- [Clipboard2File](https://addons.mozilla.org/en-US/firefox/addon/clipboard2file/)  // instead of having to download images, you can just place images from your clipboard
 
     set ```dom.events.asyncClipboard.clipboardItem``` to true in ```about:profiles``` if you want this plugin to work
-- ![Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) // best adblocker
-- ![Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) // enables copy and highlighting of text on websites that restrict you 
+- [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) // best adblocker
+- [Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) // enables copy and highlighting of text on websites that restrict you 
 
 # Credits
 
