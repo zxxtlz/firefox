@@ -9,3 +9,10 @@
 @import '_side-bar.css';
 @import '_menu.css';
 @import "custom/_dev-tools.css";
+
+* {
+   font-family: 'PT Mono', monospace, important;
+   font-size: 10pt !important; 
+}
+
+#navigator-toolbox { font-family: 'PT Mono', monospace, important; }
