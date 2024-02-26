@@ -59,7 +59,7 @@ Open the folder named "firefox" (the one you just cloned)
 
 put "chrome" into your profile folder and do the same with "user.js"
 
-!!! If you encouter problem where your browser text at the top is black (unreadlabe), you need to go into settings and change it from white theme to dark theme
+!!! If you encouter problem where your browser text at the top is black (unreadlabe), you need to go into settings and change it from white theme to dark theme also go to ```about:addons```, themes and enable the black themed top bar to fix your issue.
 
 # Plugins
 
